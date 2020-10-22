@@ -1,0 +1,142 @@
+{
+    "Items": [
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "trackingId": {
+                "S": "UA-157168220-6"
+            },
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": true
+                    },
+                    "questionnaire": {
+                        "BOOL": false
+                    },
+                    "uao": {
+                        "BOOL": false
+                    }
+                }
+            },
+            "isEnabled": {
+                "BOOL": true
+            },
+            "folioTrackingId": {
+                "S": "UA-157168220-6"
+            }
+        },
+        {
+            "brand": {
+                "S": "climb"
+            },
+            "trackingId": {
+                "S": "UA-157168220-1"
+            },
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    },
+                    "questionnaire": {
+                        "BOOL": true
+                    },
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            },
+            "isEnabled": {
+                "BOOL": true
+            },
+            "folioTrackingId": {
+                "S": "UA-157148597-1"
+            }
+        },
+        {
+            "brand": {
+                "S": "align"
+            },
+            "trackingId": {
+                "S": "UA-157739352-2"
+            },
+            "isEnabled": {
+                "BOOL": true
+            },
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    },
+                    "questionnaire": {
+                        "BOOL": false
+                    },
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            },
+            "folioTrackingId": {
+                "S": "UA-157148597-2"
+            }
+        },
+        {
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "trackingId": {
+                "S": "UA-157168220-4"
+            },
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": true
+                    },
+                    "questionnaire": {
+                        "BOOL": true
+                    },
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            },
+            "isEnabled": {
+                "BOOL": true
+            },
+            "folioTrackingId": {
+                "S": "UA-157168220-4"
+            }
+        },
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "trackingId": {
+                "S": "UA-157168220-3"
+            },
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": true
+                    },
+                    "questionnaire": {
+                        "BOOL": true
+                    },
+                    "uao": {
+                        "BOOL": false
+                    }
+                }
+            },
+            "isEnabled": {
+                "BOOL": true
+            },
+            "folioTrackingId": {
+                "S": "UA-157168220-3"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

@@ -1,0 +1,223 @@
+{
+    "Items": [
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:43 GMT"
+            },
+            "brand": {
+                "S": "navyfederal"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    },
+                    "firmId": {
+                        "S": "NAVYFEMUSMBTRHWI"
+                    },
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    },
+                    "memberNumber": {
+                        "S": "43"
+                    },
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Fri, 20 Mar 2020 16:51:53 GMT"
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "6269010685921948456"
+                    },
+                    "firmId": {
+                        "S": "COLLABVPKGHSRYGC"
+                    },
+                    "active-duty": {
+                        "S": "6269010685921948456"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "6269010685921948456"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:23 GMT"
+            },
+            "brand": {
+                "S": "climb"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2233785418460204641"
+                    },
+                    "firmId": {
+                        "S": "CLIMBILUAHZWABYZ"
+                    },
+                    "active-duty": {
+                        "S": "2233785418460204641"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "2233785418460204641"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:14 GMT"
+            },
+            "brand": {
+                "S": "align"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "360287972857185771"
+                    },
+                    "firmId": {
+                        "S": "EARTHENPGMBUVEEI"
+                    },
+                    "active-duty": {
+                        "S": "360287972857185771"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "360287972857185771"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:35 GMT"
+            },
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    },
+                    "firmId": {
+                        "S": "FOLIORQNGTBYHRLT"
+                    },
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:39 GMT"
+            },
+            "brand": {
+                "S": "foliofirst-easystart"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    },
+                    "firmId": {
+                        "S": "FOLIOFELMJIXUXJD"
+                    },
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:33:45 GMT"
+            },
+            "brand": {
+                "S": "navyfederal-easystart"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    },
+                    "firmId": {
+                        "S": "NAVYFEQSPWLDMBTK"
+                    },
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }
+                }
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:34:27 GMT"
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    },
+                    "firmId": {
+                        "S": "FIRSTAJJLHDGULFG"
+                    },
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    },
+                    "memberNumber": {
+                        "S": "999"
+                    },
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }
+                }
+            }
+        }
+    ],
+    "Count": 8,
+    "ScannedCount": 8,
+    "ConsumedCapacity": null
+}

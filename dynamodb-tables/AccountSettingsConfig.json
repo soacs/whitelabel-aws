@@ -1,0 +1,135 @@
+{
+    "Items": [
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "settingsConfig": {
+                "M": {
+                    "accountTypes": {
+                        "L": [
+                            {
+                                "M": {
+                                    "customerCareLink": {
+                                        "S": "www.google.com"
+                                    },
+                                    "employeeCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction?identifier=changeInformationForm&profileType=pfin&screen=initContributionDate&acc.accountType=9&acc.accountNumber=RJ9565600P&acc.accountName=abc+SIMPLE+IR697&acc.initContributionDate.scenario=Change"
+                                    },
+                                    "accountCode": {
+                                        "S": "9"
+                                    },
+                                    "employerCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction/document/staticdoc?documentPath=/DEFAULT/FORM/SIMPLE_IRA_Employer"
+                                    },
+                                    "accountType": {
+                                        "S": "Simple IRA"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "settingsConfig": {
+                "M": {
+                    "accountTypes": {
+                        "L": [
+                            {
+                                "M": {
+                                    "customerCareLink": {
+                                        "S": "www.google.com"
+                                    },
+                                    "employeeCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction?identifier=changeInformationForm&profileType=pfin&screen=initContributionDate&acc.accountType=9&acc.accountNumber=RJ9565600P&acc.accountName=abc+SIMPLE+IR697&acc.initContributionDate.scenario=Change"
+                                    },
+                                    "accountCode": {
+                                        "S": "9"
+                                    },
+                                    "employerCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction/document/staticdoc?documentPath=/DEFAULT/FORM/SIMPLE_IRA_Employer"
+                                    },
+                                    "accountType": {
+                                        "S": "Simple IRA"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "brand": {
+                "S": "climb"
+            }
+        },
+        {
+            "settingsConfig": {
+                "M": {
+                    "accountTypes": {
+                        "L": [
+                            {
+                                "M": {
+                                    "customerCareLink": {
+                                        "S": "www.google.com"
+                                    },
+                                    "employeeCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction?identifier=changeInformationForm&profileType=pfin&screen=initContributionDate&acc.accountType=9&acc.accountNumber=RJ9565600P&acc.accountName=abc+SIMPLE+IR697&acc.initContributionDate.scenario=Change"
+                                    },
+                                    "accountCode": {
+                                        "S": "9"
+                                    },
+                                    "employerCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction/document/staticdoc?documentPath=/DEFAULT/FORM/SIMPLE_IRA_Employer"
+                                    },
+                                    "accountType": {
+                                        "S": "Simple IRA"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "brand": {
+                "S": "align"
+            }
+        },
+        {
+            "settingsConfig": {
+                "M": {
+                    "accountTypes": {
+                        "L": [
+                            {
+                                "M": {
+                                    "customerCareLink": {
+                                        "S": "www.google.com"
+                                    },
+                                    "employeeCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction?identifier=changeInformationForm&profileType=pfin&screen=initContributionDate&acc.accountType=9&acc.accountNumber=RJ9565600P&acc.accountName=abc+SIMPLE+IR697&acc.initContributionDate.scenario=Change"
+                                    },
+                                    "accountCode": {
+                                        "S": "9"
+                                    },
+                                    "employerCertificationFormUrl": {
+                                        "S": "https://eap.folioclient.com/servlets/ProcessAction/document/staticdoc?documentPath=/DEFAULT/FORM/SIMPLE_IRA_Employer"
+                                    },
+                                    "accountType": {
+                                        "S": "Simple IRA"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            }
+        }
+    ],
+    "Count": 4,
+    "ScannedCount": 4,
+    "ConsumedCapacity": null
+}

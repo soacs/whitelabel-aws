@@ -1,0 +1,295 @@
+{
+    "Items": [
+        {
+            "brand": {
+                "S": "navyfederal"
+            },
+            "date": {
+                "S": "06/10/2019"
+            },
+            "oauthConfig": {
+                "M": {
+                    "redirectUri": {
+                        "S": "https://dwprobo.dapaws.foliofn.com/robo/authorization/callback"
+                    },
+                    "tokenExpirationTimer": {
+                        "N": "90"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/token"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/authorize"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/logout"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "verificationApiUrl": {
+                "S": "https://verification.dapaws.foliofn.com"
+            }
+        },
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "date": {
+                "S": "06/10/2019"
+            },
+            "oauthConfig": {
+                "M": {
+                    "tokenExpirationTimer": {
+                        "N": "30"
+                    },
+                    "redirectUri": {
+                        "S": "https://collaborationcapital.dapaws.foliofn.com/robo/authorization/callback"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/token"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/logout"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/authorize"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "documentAPIHostName": {
+                "S": "https://apigw-int.dap.foliofn.com"
+            },
+            "verificationApiUrl": {
+                "S": "https://verification.dapaws.foliofn.com"
+            }
+        },
+        {
+            "marketDataProviderAPIHostName": {
+                "S": "http://foliomarketdata.dap.foliofn.com"
+            },
+            "brand": {
+                "S": "climb"
+            },
+            "date": {
+                "S": "06/10/2019"
+            },
+            "oauthConfig": {
+                "M": {
+                    "redirectUri": {
+                        "S": "https://climb.dapaws.foliofn.com/robo/authorization/callback"
+                    },
+                    "tokenExpirationTimer": {
+                        "N": "30"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/token"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/authorize"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauthclimb.dapaws.foliofn.com/oauth_authorization/logout"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "verificationApiUrl": {
+                "S": "https://verificationclimb.dapaws.foliofn.com"
+            }
+        },
+        {
+            "date": {
+                "S": "07/15/2019"
+            },
+            "oauthConfig": {
+                "M": {
+                    "redirectUri": {
+                        "S": "https://dap.invest.alignyourgreen.com/robo/authorization/callback"
+                    },
+                    "tokenExpirationTimer": {
+                        "N": "30"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/token"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/logout"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "verificationApiUrl": {
+                "S": "https://verification.dap.invest.alignyourgreen.com"
+            },
+            "marketDataProviderAPIHostName": {
+                "S": "http://foliomarketdata.dap.foliofn.com"
+            },
+            "brand": {
+                "S": "align"
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "documentAPIHostName": {
+                "S": "https://apigw-int.dap.foliofn.com"
+            }
+        },
+        {
+            "marketDataProviderAPIHostName": {
+                "S": "http://foliomarketdata.dap.foliofn.com"
+            },
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "date": {
+                "S": "07/15/2019"
+            },
+            "oauthConfig": {
+                "M": {
+                    "redirectUri": {
+                        "S": "https://foliofinancial.dapaws.foliofn.com/folioalpha/authorization/callback"
+                    },
+                    "tokenExpirationTimer": {
+                        "N": "90"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/token"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/authorize"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/logout"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "verificationApiUrl": {
+                "S": "https://verification.dapaws.foliofn.com"
+            }
+        },
+        {
+            "marketDataProviderAPIHostName": {
+                "S": "http://foliomarketdata.dap.foliofn.com"
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "oauthConfig": {
+                "M": {
+                    "redirectUri": {
+                        "S": "https://dwp.dapaws.foliofn.com/robo/authorization/callback"
+                    },
+                    "tokenExpirationTimer": {
+                        "N": "90"
+                    },
+                    "sessionInactivity": {
+                        "N": "120000"
+                    },
+                    "clientId": {
+                        "S": "roboDev"
+                    },
+                    "tokenUrl": {
+                        "S": "https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/token"
+                    },
+                    "loginUrl": {
+                        "S": "https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/authorize"
+                    },
+                    "logoutUrl": {
+                        "S": "https://oauthdwp.dapaws.foliofn.com/oauth_authorization/logout"
+                    },
+                    "scope": {
+                        "S": "token:folio_node"
+                    },
+                    "storageKey": {
+                        "S": "folioRoboFAStoreDev"
+                    }
+                }
+            },
+            "date": {
+                "S": "06/10/2019"
+            },
+            "backendApiHostName": {
+                "S": "api.dapaws.foliofn.com"
+            },
+            "verificationApiUrl": {
+                "S": "https://verification.dapaws.foliofn.com"
+            }
+        }
+    ],
+    "Count": 6,
+    "ScannedCount": 6,
+    "ConsumedCapacity": null
+}

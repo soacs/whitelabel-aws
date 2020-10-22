@@ -1,0 +1,587 @@
+{
+    "Items": [
+        {
+            "riskLevels": {
+                "L": [
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "0"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "33"
+                                    },
+                                    {
+                                        "N": "25"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "50"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "67"
+                                    },
+                                    {
+                                        "N": "75"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "83"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "100"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "riskLevels": {
+                "L": [
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "0"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "33"
+                                    },
+                                    {
+                                        "N": "25"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "50"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "67"
+                                    },
+                                    {
+                                        "N": "75"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "83"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "100"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "climb"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "riskLevels": {
+                "L": [
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "0"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "33"
+                                    },
+                                    {
+                                        "N": "25"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "50"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "67"
+                                    },
+                                    {
+                                        "N": "75"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "83"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "100"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "align"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "riskLevels": {
+                "L": [
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "0"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "33"
+                                    },
+                                    {
+                                        "N": "25"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "50"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "67"
+                                    },
+                                    {
+                                        "N": "75"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "83"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "100"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "date": {
+                "S": "07/11/2019"
+            }
+        },
+        {
+            "riskLevels": {
+                "L": [
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "0"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "17"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-conservative"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "33"
+                                    },
+                                    {
+                                        "N": "25"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "50"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "moderate-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "67"
+                                    },
+                                    {
+                                        "N": "75"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "83"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "className": {
+                                "S": "more-aggressive"
+                            },
+                            "riskLevel": {
+                                "L": [
+                                    {
+                                        "N": "100"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

@@ -1,0 +1,47 @@
+{
+    "Items": [
+        {
+            "url": {
+                "S": "https://idap.dapaws.foliofn.com/auth/realms/dwp/protocol/openid-connect/userinfo"
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            }
+        },
+        {
+            "url": {
+                "S": "https://idap.dapaws.foliofn.com/auth/realms/dwp/protocol/openid-connect/userinfo"
+            },
+            "brand": {
+                "S": "climb"
+            }
+        },
+        {
+            "url": {
+                "S": "https://idap.dapaws.foliofn.com/auth/realms/dwp/protocol/openid-connect/userinfo"
+            },
+            "brand": {
+                "S": "align"
+            }
+        },
+        {
+            "url": {
+                "S": "https://idap.dapaws.foliofn.com/auth/realms/dwp/protocol/openid-connect/userinfo"
+            },
+            "brand": {
+                "S": "foliofinancial"
+            }
+        },
+        {
+            "url": {
+                "S": "https://idap.dapaws.foliofn.com/auth/realms/dwp/protocol/openid-connect/userinfo"
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

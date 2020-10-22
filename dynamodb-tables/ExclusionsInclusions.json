@@ -1,0 +1,4189 @@
+{
+    "Items": [
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "exclusionInclusionConfig": {
+                "L": [
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answer": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of adult entertainment"
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-adult-entertainment.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Adult Entertainment"
+                            },
+                            "answerSequence": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answer": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answerSubText": {
+                                "S": "Alcoholic beverage producers. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-alcohol-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Alcohol Producers"
+                            },
+                            "answerSequence": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Biofuel"
+                            },
+                            "answer": {
+                                "S": "Biofuel"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves the production and distribution of transportation fuels or any other form of liquid fuel made from plant or animal feedstocks."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "biofuel.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Biofuel"
+                            },
+                            "answerSequence": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Coal"
+                            },
+                            "answer": {
+                                "S": "Coal"
+                            },
+                            "answerSubText": {
+                                "S": "Coal producing companies"
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "coal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Coal"
+                            },
+                            "answerSequence": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Factory Farming"
+                            },
+                            "answer": {
+                                "S": "Factory Farming"
+                            },
+                            "answerSubText": {
+                                "S": "Factory Farms are large industrial farms that intend to maximize production and minimize costs at the expense of the living condition of animals with negative health consequences for consumers. Companies classified as Agriculture by Zacks Investment Research were then investigated with company websites and reports, as well as outside news articles from PETA or Cruelty Free Investing."
+                            },
+                            "category": {
+                                "S": "category-animals"
+                            },
+                            "answerIcon": {
+                                "S": "icon-factory-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Factory Farming"
+                            },
+                            "answerSequence": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Fast Food"
+                            },
+                            "answer": {
+                                "S": "Fast Food"
+                            },
+                            "answerSubText": {
+                                "S": "Companies in the fast food industry."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "fast-food.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fast Food"
+                            },
+                            "answerSequence": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answer": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel production, excluding coal."
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossi-fuel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSequence": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Gambling"
+                            },
+                            "answer": {
+                                "S": "Gambling"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the gambling industry. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "gambling.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Gambling"
+                            },
+                            "answerSequence": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Handguns"
+                            },
+                            "answer": {
+                                "S": "Handguns"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the manufacturing of handguns"
+                            },
+                            "category": {
+                                "S": "category-defense "
+                            },
+                            "answerIcon": {
+                                "S": "handguns.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Handguns"
+                            },
+                            "answerSequence": {
+                                "N": "9"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Military Weapons"
+                            },
+                            "answer": {
+                                "S": "Military Weapons"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "category-defense "
+                            },
+                            "answerIcon": {
+                                "S": "icon-military-and-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Military Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "10"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Mining"
+                            },
+                            "answer": {
+                                "S": "Mining - Not including Oil and Steel Production"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the mining of natural resources. Energy and steel producers are not included in this list."
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-mining-not-including-oil-and-steel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Mining-Not including Oil and Steel Production"
+                            },
+                            "answerSequence": {
+                                "N": "16"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answer": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies that develop, own, or manage nuclear power plants or the technology and equipment used in such plants"
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-nuclear-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Nuclear Energy"
+                            },
+                            "answerSequence": {
+                                "N": "11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Solar"
+                            },
+                            "answer": {
+                                "S": "Solar"
+                            },
+                            "answerSubText": {
+                                "S": "Solar manufacturing stocks and solar farm owner and developer stocks "
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "solar.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Solar"
+                            },
+                            "answerSequence": {
+                                "N": "12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Tobacco"
+                            },
+                            "answer": {
+                                "S": "Tobacco"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of tobacco related products.  These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "tobacco.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Tobacco"
+                            },
+                            "answerSequence": {
+                                "N": "13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Water"
+                            },
+                            "answer": {
+                                "S": "Water"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the water industry, including helping to provide safe drinking water solutions in the US and around the world."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "water.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Water"
+                            },
+                            "answerSequence": {
+                                "N": "14"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Wind"
+                            },
+                            "answer": {
+                                "S": "Wind"
+                            },
+                            "answerSubText": {
+                                "S": "Wind farm owners and developers and wind power manufacturing stocks."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "wind.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Wind"
+                            },
+                            "answerSequence": {
+                                "N": "15"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "climb"
+            },
+            "exclusionInclusionConfig": {
+                "L": [
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answer": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of adult entertainment"
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-adult-entertainment.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Adult Entertainment"
+                            },
+                            "answerSequence": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answer": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answerSubText": {
+                                "S": "Alcoholic beverage producers. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-alcohol-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Alcohol Producers"
+                            },
+                            "answerSequence": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Biofuel"
+                            },
+                            "answer": {
+                                "S": "Biofuel"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves the production and distribution of transportation fuels or any other form of liquid fuel made from plant or animal feedstocks."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "biofuel.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Biofuel"
+                            },
+                            "answerSequence": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Coal"
+                            },
+                            "answer": {
+                                "S": "Coal"
+                            },
+                            "answerSubText": {
+                                "S": "Coal producing companies"
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "coal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Coal"
+                            },
+                            "answerSequence": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Factory Farming"
+                            },
+                            "answer": {
+                                "S": "Factory Farming"
+                            },
+                            "answerSubText": {
+                                "S": "Factory Farms are large industrial farms that intend to maximize production and minimize costs at the expense of the living condition of animals with negative health consequences for consumers. Companies classified as Agriculture by Zacks Investment Research were then investigated with company websites and reports, as well as outside news articles from PETA or Cruelty Free Investing."
+                            },
+                            "category": {
+                                "S": "category-animals"
+                            },
+                            "answerIcon": {
+                                "S": "icon-factory-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Factory Farming"
+                            },
+                            "answerSequence": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Fast Food"
+                            },
+                            "answer": {
+                                "S": "Fast Food"
+                            },
+                            "answerSubText": {
+                                "S": "Companies in the fast food industry."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "fast-food.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fast Food"
+                            },
+                            "answerSequence": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answer": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel production, excluding coal."
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossi-fuel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSequence": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Gambling"
+                            },
+                            "answer": {
+                                "S": "Gambling"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the gambling industry. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "gambling.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Gambling"
+                            },
+                            "answerSequence": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Handguns"
+                            },
+                            "answer": {
+                                "S": "Handguns"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the manufacturing of handguns"
+                            },
+                            "category": {
+                                "S": "category-defense "
+                            },
+                            "answerIcon": {
+                                "S": "handguns.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Handguns"
+                            },
+                            "answerSequence": {
+                                "N": "9"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Military Weapons"
+                            },
+                            "answer": {
+                                "S": "Military Weapons"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "category-defense "
+                            },
+                            "answerIcon": {
+                                "S": "icon-military-and-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Military Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "10"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Mining"
+                            },
+                            "answer": {
+                                "S": "Mining - Not including Oil and Steel Production"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the mining of natural resources. Energy and steel producers are not included in this list."
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-mining-not-including-oil-and-steel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Mining-Not including Oil and Steel Production"
+                            },
+                            "answerSequence": {
+                                "N": "16"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answer": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies that develop, own, or manage nuclear power plants or the technology and equipment used in such plants"
+                            },
+                            "category": {
+                                "S": "category-oil-and-gas"
+                            },
+                            "answerIcon": {
+                                "S": "icon-nuclear-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Nuclear Energy"
+                            },
+                            "answerSequence": {
+                                "N": "11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Solar"
+                            },
+                            "answer": {
+                                "S": "Solar"
+                            },
+                            "answerSubText": {
+                                "S": "Solar manufacturing stocks and solar farm owner and developer stocks "
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "solar.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Solar"
+                            },
+                            "answerSequence": {
+                                "N": "12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Tobacco"
+                            },
+                            "answer": {
+                                "S": "Tobacco"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of tobacco related products.  These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "category-entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "tobacco.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Tobacco"
+                            },
+                            "answerSequence": {
+                                "N": "13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Water"
+                            },
+                            "answer": {
+                                "S": "Water"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the water industry, including helping to provide safe drinking water solutions in the US and around the world."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "water.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Water"
+                            },
+                            "answerSequence": {
+                                "N": "14"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "displayText": {
+                                "S": "Wind"
+                            },
+                            "answer": {
+                                "S": "Wind"
+                            },
+                            "answerSubText": {
+                                "S": "Wind farm owners and developers and wind power manufacturing stocks."
+                            },
+                            "category": {
+                                "S": "category-natural-resources"
+                            },
+                            "answerIcon": {
+                                "S": "wind.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Wind"
+                            },
+                            "answerSequence": {
+                                "N": "15"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "align"
+            },
+            "exclusionInclusionConfig": {
+                "L": [
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Farm Friendly"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "0"
+                            },
+                            "answerIcon": {
+                                "S": "icon-GMOs-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Exclude companies involved in agricultural chemicals, genetically modified organisms (GMOs), factory farming, fish farming, meat & dairy producers and fast food."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Cruelty Free"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "0"
+                            },
+                            "answerIcon": {
+                                "S": "icon-cruelty-free-investing-10-worst-companies-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Exclude companies that use animal testing including pharmaceuticals and non-pharmaceuticals as well as opioid distributors and makers."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Pharma-Free"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "0"
+                            },
+                            "answerIcon": {
+                                "S": "icon-agricultural-chemicals-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Exclude all pharmaceutical companies including biotechnology and big pharma."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Extra Renewable Energy"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "1"
+                            },
+                            "answerIcon": {
+                                "S": "solar-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Increase the percentage of renewable energy companies in your portfolio including geothermal, solar, water and wind."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Gender Lens"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "1"
+                            },
+                            "answerIcon": {
+                                "S": "icon-best-workplaces-for-women-2017-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Increase the percentage of companies listed on the ‘Best Workplaces for Women 2017’ and companies that have over 55% of women on their boards of directors."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "People Friendly Companies"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "1"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-100-best-companies-to-work-for-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Increase the percentage of companies included on the Fortune 100 Best Companies To Work For list and companies that are members of the Fair Labor Association."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Marijuana"
+                            },
+                            "answerSubText": {
+                                "NULL": true
+                            },
+                            "answerGroup": {
+                                "S": "2"
+                            },
+                            "answerIcon": {
+                                "S": "marijuana-align.svg"
+                            },
+                            "answerDescription": {
+                                "S": "Add an allocation of companies involved in the legal production of cannabis for recreational and medicinal purposes."
+                            },
+                            "answerIconAdaDescription": {
+                                "NULL": true
+                            },
+                            "answerSequence": {
+                                "S": "7"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "exclusionInclusionConfig": {
+                "L": [
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Animal Testing - Human Health Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Human healthcare companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Human Health"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Animal Testing - Human Health Companies"
+                            },
+                            "answerSequence": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Cruelty Free Investing - 10 Worst Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "When it comes to listing the ten worst companies, Cruelty Free Investing has chosen the companies it would be most embarrassed to be associated with, because of the magnitude of the suffering they cause."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Cruelty Free Investing - 10 Worst"
+                            },
+                            "answerIcon": {
+                                "S": "icon-cruelty-free-investing-10-worst-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Cruelty Free Investing – 10 Worst Companies"
+                            },
+                            "answerSequence": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Factory Farming"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Factory Farms are large industrial farms that intend to maximize production and minimize costs at the expense of the living condition of animals with negative health consequences for consumers. Companies classified as Agriculture by Zacks Investment Research were then investigated with company websites and reports, as well as outside news articles from PETA or Cruelty Free Investing."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Factory Farming"
+                            },
+                            "answerIcon": {
+                                "S": "icon-factory-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Factory Farming"
+                            },
+                            "answerSequence": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fish Farming"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Fish farming is a form of aquaculture in which fish are raised in enclosures to be sold as food. It is the fastest growing area of animal food production. Today, about half the fish consumed globally are raised in these artificial environments."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Fish Farming"
+                            },
+                            "answerIcon": {
+                                "S": "icon-fish-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fish Farming"
+                            },
+                            "answerSequence": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Meat and Dairy Producers"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Meat and dairy producing companies."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Meat and Dairy Producers"
+                            },
+                            "answerIcon": {
+                                "S": "meat-and-dariy-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Meat and Dairy Producers"
+                            },
+                            "answerSequence": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Animal Testing - Pharmaceutical Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Pharmaceutical companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Pharma"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Animal Testing - Pharmaceutical Companies"
+                            },
+                            "answerSequence": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Coal"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Coal producing companies"
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Coal"
+                            },
+                            "answerIcon": {
+                                "S": "coal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Coal"
+                            },
+                            "answerSequence": {
+                                "N": "17"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Mining - Not including Oil and Steel Production"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the mining of natural resources. Energy and steel producers are not included in this list."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Mining - Ex Oil or Steel Production"
+                            },
+                            "answerIcon": {
+                                "S": "icon-mining-not-including-oil-and-steel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Mining-Not including Oil and Steel Production"
+                            },
+                            "answerSequence": {
+                                "N": "18"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Biofuel"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves the production and distribution of transportation fuels or any other form of liquid fuel made from plant or animal feedstocks."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Biofuel"
+                            },
+                            "answerIcon": {
+                                "S": "biofuel.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Biofuel"
+                            },
+                            "answerSequence": {
+                                "N": "10"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "To determine the Best Workplaces for Women, Great Place to Work® surveyed over 400,000 U.S. employees from Great Place to Work-Certified companies and ranked companies based on four factors: (1) Key Great Place to Work Metrics. They analyzed how positively women rated their organizations on over 50 different metrics defining great workplaces, including ethical leadership, respectful and fair workplace interactions, great benefits and development, and strong caring and personal support. (2) Comparison to Colleagues. They compared women's results on all survey questions to that of their male colleagues. Specifically, they looked at an index of factors where the data showed women often lag their peers, such access to leaders and information, and recognition for their work. (3) A Consistent Experience within a Diverse Group. They analyzed demographic patterns to ensure that companies were creating great workplaces for all women, regardless of who they are or what they do for the organization. (4) A Consistent Experience within a Diverse Group. They analyzed demographic patterns to ensure that companies were creating great workplaces for all women, regardless of who they are or what they do for the organization. Companies needed to employ at least 50 women to be considered."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "answerIcon": {
+                                "S": "icon-best-workplaces-for-women-2017.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "answerSequence": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fair Labor Association Members"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "As part of FLA, some of the world's leading brands have committed to ensuring fair labor practices and safe and humane working conditions throughout their supply chains. Companies that have committed to FLA's Code of Conduct and established systems to identify and remedy ethical violations are making significant strides towards that goal. These companies are working with FLA to develop and improve social compliance systems that flag issues and lead to sustainable solutions when workers are at risk. Companies join the FLA on a voluntary basis, but they must meet strict labor standards for as long as they are affiliated. FLA holds Participating Companies accountable for monitoring 100% of their own supply chains to ensure that they meet FLA labor standards."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Fair Labor Association Members"
+                            },
+                            "answerIcon": {
+                                "S": "icon-fair-labor-association-members.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fair Labor Association Members"
+                            },
+                            "answerSequence": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "100 Best Companies to Work For 2018"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Fortune list of 100 Best Companies to Work For 2018."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "100 Best Companies to Work For"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-100-best-companies-to-work-for.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "9"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Geothermal"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves using the earth’s heat energy for productive use, such as generating electricity and space and process heat. These companies' 10-K's were checked to assess whether they use geothermal methods to produce energy or not."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Geothermal"
+                            },
+                            "answerIcon": {
+                                "S": "geothermal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Geothermal"
+                            },
+                            "answerSequence": {
+                                "N": "11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Positive Waste Management"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Waste-to-energy stocks are publicly traded companies whose business involves using municipal or other waste as a feedstock to create fuel or electricity. These companies' 10-K's checked to confirm why they are considered renewables."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Positive Waste Management"
+                            },
+                            "answerIcon": {
+                                "S": "positive-waste-management.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Positive Waste Management"
+                            },
+                            "answerSequence": {
+                                "N": "12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Solar"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Solar manufacturing stocks and solar farm owner and developer stocks "
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Solar"
+                            },
+                            "answerIcon": {
+                                "S": "solar.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Solar"
+                            },
+                            "answerSequence": {
+                                "N": "13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Water"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the water industry, including helping to provide safe drinking water solutions in the US and around the world."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Water"
+                            },
+                            "answerIcon": {
+                                "S": "water.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Water"
+                            },
+                            "answerSequence": {
+                                "N": "14"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Wind"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Wind farm owners and developers and wind power manufacturing stocks."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Wind"
+                            },
+                            "answerIcon": {
+                                "S": "wind.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Wind"
+                            },
+                            "answerSequence": {
+                                "N": "15"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Other Alternative Energy"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Energy generated in ways that do not deplete natural resources or harm the environment."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Other Alternative Energy"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-other-alternative-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Other Alternative Energy"
+                            },
+                            "answerSequence": {
+                                "N": "16"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Nuclear Energy"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies that develop, own, or manage nuclear power plants or the technology and equipment used in such plants"
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answerIcon": {
+                                "S": "icon-nuclear-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Nuclear Energy"
+                            },
+                            "answerSequence": {
+                                "N": "19"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fossil Fuel Infrastructure and Transportation"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel infrastructure and transportation."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Infrastructure and Transportation"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossil-fuel-infrastructure-transportation.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Infrastructure and Transportation"
+                            },
+                            "answerSequence": {
+                                "N": "20"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel production, excluding coal."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Production (Ex-Coal)"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossi-fuel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSequence": {
+                                "N": "21"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Agricultural Chemicals"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Agricultural chemical producers."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Agricultural Chemicals"
+                            },
+                            "answerIcon": {
+                                "S": "icon-agricultural-chemicals.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Agricultural Chemicals"
+                            },
+                            "answerSequence": {
+                                "N": "22"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Genetically Modified Organisms (GMOs)"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies that produce, distribute, and use Genetically Modified Organisms in the production of food for human or animal consumption."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "GMOs"
+                            },
+                            "answerIcon": {
+                                "S": "icon-GMOs.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Genetically Modified Organisms (GMOs)"
+                            },
+                            "answerSequence": {
+                                "N": "23"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Adult Entertainment"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of adult entertainment"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-adult-entertainment.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Adult Entertainment"
+                            },
+                            "answerSequence": {
+                                "N": "24"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Alcohol Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Alcoholic beverage producers. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answerIcon": {
+                                "S": "icon-alcohol-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Alcohol Producers"
+                            },
+                            "answerSequence": {
+                                "N": "25"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fast Food"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies in the fast food industry."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Fast Food"
+                            },
+                            "answerIcon": {
+                                "S": "fast-food.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fast Food"
+                            },
+                            "answerSequence": {
+                                "N": "26"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Gambling"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the gambling industry. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Gambling"
+                            },
+                            "answerIcon": {
+                                "S": "gambling.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Gambling"
+                            },
+                            "answerSequence": {
+                                "N": "27"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Marijuana"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of marijuana"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Marijuana"
+                            },
+                            "answerIcon": {
+                                "S": "marijuana.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Marijuana"
+                            },
+                            "answerSequence": {
+                                "N": "28"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Soda Producers and distributors (non-alcoholic beverages)"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of \"soft\" beverages. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Soda Producers and distributors"
+                            },
+                            "answerIcon": {
+                                "S": "icon-soda-producers-and-distributors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Soda Producers and distributors (non-alcoholic beverages)"
+                            },
+                            "answerSequence": {
+                                "N": "29"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Tobacco"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of tobacco related products.  These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Tobacco"
+                            },
+                            "answerIcon": {
+                                "S": "tobacco.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Tobacco"
+                            },
+                            "answerSequence": {
+                                "N": "30"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Manufacturing of Contraceptives"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production contraceptives."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Manufacturing of Contraceptives"
+                            },
+                            "answerIcon": {
+                                "S": "manufacturing-of-contraceptives.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Manufacturing of Contraceptives"
+                            },
+                            "answerSequence": {
+                                "N": "31"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Pharmaceutical Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production of pharmaceuticals"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Pharmaceutical Producers"
+                            },
+                            "answerIcon": {
+                                "S": "pharmaceutical-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Pharmaceutical Producers"
+                            },
+                            "answerSequence": {
+                                "N": "32"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Stem Cell Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production of stem cells"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Stem Cell Producers"
+                            },
+                            "answerIcon": {
+                                "S": "stem-cell-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Stem Cell Producers"
+                            },
+                            "answerSequence": {
+                                "N": "33"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Distributors"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Distributors"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-distributors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Distributors"
+                            },
+                            "answerSequence": {
+                                "N": "34"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Makers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Makers"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-makers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "35"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Other"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Other"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-other.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Other"
+                            },
+                            "answerSequence": {
+                                "N": "36"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Aerospace Defense"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "All defensive measures designed to destroy or nullify attacking enemy aircraft and missiles and also negate hostile space systems."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Aerospace Defense"
+                            },
+                            "answerIcon": {
+                                "S": "icon-aerospace-defense.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Aerospace Defense"
+                            },
+                            "answerSequence": {
+                                "N": "37"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Companies Associated With the NRA"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "By partnering with the NRA, these publicly held companies are taking a political stance by aligning themselves with one of the nation’s most deadly and divisive lobbying organizations"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "NRA Affiliation"
+                            },
+                            "answerIcon": {
+                                "S": "icon-companies-associated-with-NRA.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Companies Associated With the NRA"
+                            },
+                            "answerSequence": {
+                                "N": "38"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Controversial Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies affected by the Cluster Munitions and Anti-Personnel Mines Act. The Cluster Munitions and Anti-Personnel Mines Act 2008 prohibits the investment of public money, either directly or indirectly, in any company involved in the manufacture of prohibited munitions or components. Public money is defined in the Act as “moneys provided by the Oireachtas out of the Central Fund”; thus, the application does not extend to private investors."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Controversial Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-controversial-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Controversial Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "39"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Handguns"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the manufacturing of handguns"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Handguns"
+                            },
+                            "answerIcon": {
+                                "S": "handguns.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Handguns"
+                            },
+                            "answerSequence": {
+                                "N": "40"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Military Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Military Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-military-and-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Military Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "41"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Other Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Other Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-other-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Other Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "42"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "SIPRI's Top 100 International Arms Producing and Military Services Companies"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "SIPRI - Top 100 Arms Producers"
+                            },
+                            "answerIcon": {
+                                "S": "SIPRIs-Top-100-International-Arms-Producing-and-Military-Services-Companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for SIPRI's Top 100 International Arms Producing and Military Services Companies"
+                            },
+                            "answerSequence": {
+                                "N": "43"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Banks Financially Supporting For-Profit Prison Companies"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "These major financial investors each own over 1 million shares of CCA and GEO combined. With these powerful allies, they have been able to sway public policy in favor of more severe “tough on crime” laws and the increasing criminalization of immigrants."
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "Banks Supporting For-Profit Prisons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-banks-financially-supporting-for-profit-prison-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Banks Financially Supporting For-Profit Prison Companies"
+                            },
+                            "answerSequence": {
+                                "N": "44"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Financial Services Companies Financing Climate Change 2019"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Financial Services companies providing $4 billion or more in financing to fossil fuel projects from 2015 to 2017."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Firms Financing Climate Change"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-financial-services-companies-financing-climate-change.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Financial Services Companies Financing Climate Change 2019"
+                            },
+                            "answerSequence": {
+                                "N": "45"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Companies Benefitting from Detaining Immigrants and Separating Families"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Directly or indirectly, these companies benefit financially from the detention of immigrants and the separation of families"
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "Immigrant Separation & Detention"
+                            },
+                            "answerIcon": {
+                                "S": "icon-companies-benefitting-from-detaining-immigrants-and-separating-families.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Companies Benefitting from Detaining Immigrants and Separating Families"
+                            },
+                            "answerSequence": {
+                                "N": "46"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "For-Profit Prison Companies"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "These companies operate prisons and profit from mass incarceration. They lobby to ensure their cells stay full by targeting immigrants and minorities and take advantage of their trapped market for labor and customers."
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "For-Profit Prison Companies"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-profit-prison-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for For-Profit Prison Companies"
+                            },
+                            "answerSequence": {
+                                "N": "47"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Utilities"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Utility companies who do not participate in renewable resources."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Utilities"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-utilities.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Utilities"
+                            },
+                            "answerSequence": {
+                                "N": "48"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Women Board of Directors 55% or higher"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies who have 55% or higher of their board of directors consisting of women."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Women Board of Directors 55% +"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-women-board-of-directors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "49"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "CEI LGBTQIA Worst-Rated Companies 2019"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The 2019 Corporate Equality Index (CEI) was compiled by HRC Foundation, the educational arm of the nation’s largest LGBTQIA civil rights organization."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "CEI LGBTQIA Worst Companies"
+                            },
+                            "answerIcon": {
+                                "S": "icon-best-workplaces-for-women-2017.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for CEI LGBTQ Worst-Rated Companies 2019"
+                            },
+                            "answerSequence": {
+                                "N": "50"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Consumer Product Companies that Exploit Animals"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Non-pharmaceutical companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Consumer Products"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Consumer Product Companies that Exploit Animals"
+                            },
+                            "answerSequence": {
+                                "N": "51"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "exclusionInclusionConfig": {
+                "L": [
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Animal Testing - Human Health Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Human healthcare companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Human Health"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Animal Testing - Human Health Companies"
+                            },
+                            "answerSequence": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Cruelty Free Investing - 10 Worst Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "When it comes to listing the ten worst companies, Cruelty Free Investing has chosen the companies it would be most embarrassed to be associated with, because of the magnitude of the suffering they cause."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Cruelty Free Investing - 10 Worst"
+                            },
+                            "answerIcon": {
+                                "S": "icon-cruelty-free-investing-10-worst-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Cruelty Free Investing – 10 Worst Companies"
+                            },
+                            "answerSequence": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Factory Farming"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Factory Farms are large industrial farms that intend to maximize production and minimize costs at the expense of the living condition of animals with negative health consequences for consumers. Companies classified as Agriculture by Zacks Investment Research were then investigated with company websites and reports, as well as outside news articles from PETA or Cruelty Free Investing."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Factory Farming"
+                            },
+                            "answerIcon": {
+                                "S": "icon-factory-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Factory Farming"
+                            },
+                            "answerSequence": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fish Farming"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Fish farming is a form of aquaculture in which fish are raised in enclosures to be sold as food. It is the fastest growing area of animal food production. Today, about half the fish consumed globally are raised in these artificial environments."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Fish Farming"
+                            },
+                            "answerIcon": {
+                                "S": "icon-fish-farming.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fish Farming"
+                            },
+                            "answerSequence": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Meat and Dairy Producers"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Meat and dairy producing companies."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Meat and Dairy Producers"
+                            },
+                            "answerIcon": {
+                                "S": "meat-and-dariy-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Meat and Dairy Producers"
+                            },
+                            "answerSequence": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Animal Testing - Pharmaceutical Companies"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Pharmaceutical companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Pharma"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Animal Testing - Pharmaceutical Companies"
+                            },
+                            "answerSequence": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Coal"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Coal producing companies"
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Coal"
+                            },
+                            "answerIcon": {
+                                "S": "coal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Coal"
+                            },
+                            "answerSequence": {
+                                "N": "17"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Mining - Not including Oil and Steel Production"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the mining of natural resources. Energy and steel producers are not included in this list."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Mining - Ex Oil or Steel Production"
+                            },
+                            "answerIcon": {
+                                "S": "icon-mining-not-including-oil-and-steel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Mining-Not including Oil and Steel Production"
+                            },
+                            "answerSequence": {
+                                "N": "18"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Biofuel"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves the production and distribution of transportation fuels or any other form of liquid fuel made from plant or animal feedstocks."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Biofuel"
+                            },
+                            "answerIcon": {
+                                "S": "biofuel.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Biofuel"
+                            },
+                            "answerSequence": {
+                                "N": "10"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "To determine the Best Workplaces for Women, Great Place to Work® surveyed over 400,000 U.S. employees from Great Place to Work-Certified companies and ranked companies based on four factors: (1) Key Great Place to Work Metrics. They analyzed how positively women rated their organizations on over 50 different metrics defining great workplaces, including ethical leadership, respectful and fair workplace interactions, great benefits and development, and strong caring and personal support. (2) Comparison to Colleagues. They compared women's results on all survey questions to that of their male colleagues. Specifically, they looked at an index of factors where the data showed women often lag their peers, such access to leaders and information, and recognition for their work. (3) A Consistent Experience within a Diverse Group. They analyzed demographic patterns to ensure that companies were creating great workplaces for all women, regardless of who they are or what they do for the organization. (4) A Consistent Experience within a Diverse Group. They analyzed demographic patterns to ensure that companies were creating great workplaces for all women, regardless of who they are or what they do for the organization. Companies needed to employ at least 50 women to be considered."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "answerIcon": {
+                                "S": "icon-best-workplaces-for-women-2017.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Best Workplaces for Women 2018"
+                            },
+                            "answerSequence": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fair Labor Association Members"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "As part of FLA, some of the world's leading brands have committed to ensuring fair labor practices and safe and humane working conditions throughout their supply chains. Companies that have committed to FLA's Code of Conduct and established systems to identify and remedy ethical violations are making significant strides towards that goal. These companies are working with FLA to develop and improve social compliance systems that flag issues and lead to sustainable solutions when workers are at risk. Companies join the FLA on a voluntary basis, but they must meet strict labor standards for as long as they are affiliated. FLA holds Participating Companies accountable for monitoring 100% of their own supply chains to ensure that they meet FLA labor standards."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Fair Labor Association Members"
+                            },
+                            "answerIcon": {
+                                "S": "icon-fair-labor-association-members.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fair Labor Association Members"
+                            },
+                            "answerSequence": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "100 Best Companies to Work For 2018"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Fortune list of 100 Best Companies to Work For 2018."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "100 Best Companies to Work For"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-100-best-companies-to-work-for.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "9"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Geothermal"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies whose business involves using the earth’s heat energy for productive use, such as generating electricity and space and process heat. These companies' 10-K's were checked to assess whether they use geothermal methods to produce energy or not."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Geothermal"
+                            },
+                            "answerIcon": {
+                                "S": "geothermal.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Geothermal"
+                            },
+                            "answerSequence": {
+                                "N": "11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Positive Waste Management"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Waste-to-energy stocks are publicly traded companies whose business involves using municipal or other waste as a feedstock to create fuel or electricity. These companies' 10-K's checked to confirm why they are considered renewables."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Positive Waste Management"
+                            },
+                            "answerIcon": {
+                                "S": "positive-waste-management.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Positive Waste Management"
+                            },
+                            "answerSequence": {
+                                "N": "12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Solar"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Solar manufacturing stocks and solar farm owner and developer stocks "
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Solar"
+                            },
+                            "answerIcon": {
+                                "S": "solar.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Solar"
+                            },
+                            "answerSequence": {
+                                "N": "13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Water"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the water industry, including helping to provide safe drinking water solutions in the US and around the world."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Water"
+                            },
+                            "answerIcon": {
+                                "S": "water.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Water"
+                            },
+                            "answerSequence": {
+                                "N": "14"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Wind"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Wind farm owners and developers and wind power manufacturing stocks."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Wind"
+                            },
+                            "answerIcon": {
+                                "S": "wind.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Wind"
+                            },
+                            "answerSequence": {
+                                "N": "15"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Other Alternative Energy"
+                            },
+                            "color": {
+                                "S": "#3FD1FF"
+                            },
+                            "categoryIcon": {
+                                "S": "renewable.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Energy generated in ways that do not deplete natural resources or harm the environment."
+                            },
+                            "category": {
+                                "S": "Renewable Energy"
+                            },
+                            "title": {
+                                "S": "Other Alternative Energy"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-other-alternative-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Other Alternative Energy"
+                            },
+                            "answerSequence": {
+                                "N": "16"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Nuclear Energy"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Publicly traded companies that develop, own, or manage nuclear power plants or the technology and equipment used in such plants"
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Nuclear Energy"
+                            },
+                            "answerIcon": {
+                                "S": "icon-nuclear-energy.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Nuclear Energy"
+                            },
+                            "answerSequence": {
+                                "N": "19"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fossil Fuel Infrastructure and Transportation"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel infrastructure and transportation."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Infrastructure and Transportation"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossil-fuel-infrastructure-transportation.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Infrastructure and Transportation"
+                            },
+                            "answerSequence": {
+                                "N": "20"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in fossil fuel production, excluding coal."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Production (Ex-Coal)"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-fossi-fuel-production.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fossil Fuel Production (Ex-Coal)"
+                            },
+                            "answerSequence": {
+                                "N": "21"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Agricultural Chemicals"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Agricultural chemical producers."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Agricultural Chemicals"
+                            },
+                            "answerIcon": {
+                                "S": "icon-agricultural-chemicals.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Agricultural Chemicals"
+                            },
+                            "answerSequence": {
+                                "N": "22"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Genetically Modified Organisms (GMOs)"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies that produce, distribute, and use Genetically Modified Organisms in the production of food for human or animal consumption."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "GMOs"
+                            },
+                            "answerIcon": {
+                                "S": "icon-GMOs.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Genetically Modified Organisms (GMOs)"
+                            },
+                            "answerSequence": {
+                                "N": "23"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Adult Entertainment"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of adult entertainment"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Adult Entertainment"
+                            },
+                            "answerIcon": {
+                                "S": "icon-adult-entertainment.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Adult Entertainment"
+                            },
+                            "answerSequence": {
+                                "N": "24"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Alcohol Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Alcoholic beverage producers. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Alcohol Producers"
+                            },
+                            "answerIcon": {
+                                "S": "icon-alcohol-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Alcohol Producers"
+                            },
+                            "answerSequence": {
+                                "N": "25"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Fast Food"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies in the fast food industry."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Fast Food"
+                            },
+                            "answerIcon": {
+                                "S": "fast-food.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Fast Food"
+                            },
+                            "answerSequence": {
+                                "N": "26"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Gambling"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the gambling industry. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Gambling"
+                            },
+                            "answerIcon": {
+                                "S": "gambling.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Gambling"
+                            },
+                            "answerSequence": {
+                                "N": "27"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Marijuana"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution of marijuana"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Marijuana"
+                            },
+                            "answerIcon": {
+                                "S": "marijuana.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Marijuana"
+                            },
+                            "answerSequence": {
+                                "N": "28"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Soda Producers and distributors (non-alcoholic beverages)"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of \"soft\" beverages. These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Soda Producers and Distributors"
+                            },
+                            "answerIcon": {
+                                "S": "icon-soda-producers-and-distributors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Soda Producers and Distributors (non-alcoholic beverages)"
+                            },
+                            "answerSequence": {
+                                "N": "29"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Tobacco"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production and distribution (not retail) of tobacco related products.  These were confirmed with company websites and reports."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Tobacco"
+                            },
+                            "answerIcon": {
+                                "S": "tobacco.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Tobacco"
+                            },
+                            "answerSequence": {
+                                "N": "30"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Manufacturing of Contraceptives"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production contraceptives."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Manufacturing of Contraceptives"
+                            },
+                            "answerIcon": {
+                                "S": "manufacturing-of-contraceptives.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Manufacturing of Contraceptives"
+                            },
+                            "answerSequence": {
+                                "N": "31"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Pharmaceutical Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production of pharmaceuticals"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Pharmaceutical Producers"
+                            },
+                            "answerIcon": {
+                                "S": "pharmaceutical-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Pharmaceutical Producers"
+                            },
+                            "answerSequence": {
+                                "N": "32"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Stem Cell Producers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies engaged in the production of stem cells"
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Stem Cell Producers"
+                            },
+                            "answerIcon": {
+                                "S": "stem-cell-producers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Stem Cell Producers"
+                            },
+                            "answerSequence": {
+                                "N": "33"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Distributors"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Distributors"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-distributors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Distributors"
+                            },
+                            "answerSequence": {
+                                "N": "34"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Makers"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Makers"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-makers.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "35"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Opioid Other"
+                            },
+                            "color": {
+                                "S": "#B63FFF"
+                            },
+                            "categoryIcon": {
+                                "S": "lifestyle_choices.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies fined by New York State to help defray the costs of the opioid crisis."
+                            },
+                            "category": {
+                                "S": "Lifestyle Choices"
+                            },
+                            "title": {
+                                "S": "Opioid Other"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-opioid-other.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Other"
+                            },
+                            "answerSequence": {
+                                "N": "36"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Aerospace Defense"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "All defensive measures designed to destroy or nullify attacking enemy aircraft and missiles and also negate hostile space systems."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Aerospace Defense"
+                            },
+                            "answerIcon": {
+                                "S": "icon-aerospace-defense.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Aerospace Defense"
+                            },
+                            "answerSequence": {
+                                "N": "37"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Companies Associated With the NRA"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "By partnering with the NRA, these publicly held companies are taking a political stance by aligning themselves with one of the nation’s most deadly and divisive lobbying organizations"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "NRA Affiliation"
+                            },
+                            "answerIcon": {
+                                "S": "icon-companies-associated-with-NRA.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Companies Associated With the NRA"
+                            },
+                            "answerSequence": {
+                                "N": "38"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Controversial Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies affected by the Cluster Munitions and Anti-Personnel Mines Act. The Cluster Munitions and Anti-Personnel Mines Act 2008 prohibits the investment of public money, either directly or indirectly, in any company involved in the manufacture of prohibited munitions or components. Public money is defined in the Act as “moneys provided by the Oireachtas out of the Central Fund”; thus, the application does not extend to private investors."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Controversial Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-controversial-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Controversial Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "39"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Handguns"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies involved in the manufacturing of handguns"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Handguns"
+                            },
+                            "answerIcon": {
+                                "S": "handguns.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Handguns"
+                            },
+                            "answerSequence": {
+                                "N": "40"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Military Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Military Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-military-and-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Military Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "41"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Other Weapons"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies"
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "Other Weapons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-other-weapons.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Other Weapons"
+                            },
+                            "answerSequence": {
+                                "N": "42"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "SIPRI's Top 100 International Arms Producing and Military Services Companies"
+                            },
+                            "color": {
+                                "S": "#F4254A"
+                            },
+                            "categoryIcon": {
+                                "S": "military.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The SIPRI arms industry database contains information on the 100 largest arms-producing and military services companies."
+                            },
+                            "category": {
+                                "S": "Military and Weapons "
+                            },
+                            "title": {
+                                "S": "SIPRI - Top 100 Arms Producers"
+                            },
+                            "answerIcon": {
+                                "S": "SIPRIs-Top-100-International-Arms-Producing-and-Military-Services-Companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for SIPRI's Top 100 International Arms Producing and Military Services Companies"
+                            },
+                            "answerSequence": {
+                                "N": "43"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Banks Financially Supporting For-Profit Prison Companies"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "These major financial investors each own over 1 million shares of CCA and GEO combined. With these powerful allies, they have been able to sway public policy in favor of more severe “tough on crime” laws and the increasing criminalization of immigrants."
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "Banks Supporting For-Profit Prisons"
+                            },
+                            "answerIcon": {
+                                "S": "icon-banks-financially-supporting-for-profit-prison-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Banks Financially Supporting For-Profit Prison Companies"
+                            },
+                            "answerSequence": {
+                                "N": "44"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Financial Services Companies Financing Climate Change 2019"
+                            },
+                            "color": {
+                                "S": "#CBFF34"
+                            },
+                            "categoryIcon": {
+                                "S": "fossil_fuels.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Financial Services companies providing $4 billion or more in financing to fossil fuel projects from 2015 to 2017."
+                            },
+                            "category": {
+                                "S": "Fossil Fuels"
+                            },
+                            "title": {
+                                "S": "Firms Financing Climate Change"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-financial-services-companies-financing-climate-change.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Financial Services Companies Financing Climate Change 2019"
+                            },
+                            "answerSequence": {
+                                "N": "45"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Companies Benefitting from Detaining Immigrants and Separating Families"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Directly or indirectly, these companies benefit financially from the detention of immigrants and the separation of families"
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "Immigrant Separation & Detention"
+                            },
+                            "answerIcon": {
+                                "S": "icon-companies-benefitting-from-detaining-immigrants-and-separating-families.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Companies Benefitting from Detaining Immigrants and Separating Families"
+                            },
+                            "answerSequence": {
+                                "N": "46"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "For-Profit Prison Companies"
+                            },
+                            "color": {
+                                "S": "#FF9900"
+                            },
+                            "categoryIcon": {
+                                "S": "prisons.svg"
+                            },
+                            "answerSubText": {
+                                "S": "These companies operate prisons and profit from mass incarceration. They lobby to ensure their cells stay full by targeting immigrants and minorities and take advantage of their trapped market for labor and customers."
+                            },
+                            "category": {
+                                "S": "Prison and Detention"
+                            },
+                            "title": {
+                                "S": "For-Profit Prison Companies"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-profit-prison-companies.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for For-Profit Prison Companies"
+                            },
+                            "answerSequence": {
+                                "N": "47"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Utilities"
+                            },
+                            "color": {
+                                "S": "#4DED8C"
+                            },
+                            "categoryIcon": {
+                                "S": "enviro_impacters.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Utility companies who do not participate in renewable resources."
+                            },
+                            "category": {
+                                "S": "Other Environmental Issues"
+                            },
+                            "title": {
+                                "S": "Utilities"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-utilities.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Utilities"
+                            },
+                            "answerSequence": {
+                                "N": "48"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Women Board of Directors 55% or higher"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Companies who have 55% or higher of their board of directors consisting of women."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "Women Board of Directors 55% +"
+                            },
+                            "answerIcon": {
+                                "S": "icon-for-women-board-of-directors.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Opioid Makers"
+                            },
+                            "answerSequence": {
+                                "N": "49"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "CEI LGBTQIA Worst-Rated Companies 2019"
+                            },
+                            "color": {
+                                "S": "#5873FF"
+                            },
+                            "categoryIcon": {
+                                "S": "corporate_behaviour.svg"
+                            },
+                            "answerSubText": {
+                                "S": "The 2019 Corporate Equality Index (CEI) was compiled by HRC Foundation, the educational arm of the nation’s largest LGBTQIA civil rights organization."
+                            },
+                            "category": {
+                                "S": "Corporate Behavior"
+                            },
+                            "title": {
+                                "S": "CEI LGBTQIA Worst Companies"
+                            },
+                            "answerIcon": {
+                                "S": "icon-best-workplaces-for-women-2017.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for CEI LGBTQ Worst-Rated Companies 2019"
+                            },
+                            "answerSequence": {
+                                "N": "50"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "answer": {
+                                "S": "Consumer Product Companies that Exploit Animals"
+                            },
+                            "color": {
+                                "S": "#FEC840"
+                            },
+                            "categoryIcon": {
+                                "S": "animal_rights.svg"
+                            },
+                            "answerSubText": {
+                                "S": "Non-pharmaceutical companies who participate in scientific experiments or tests in which a live animal is forced to undergo something that is likely to cause them pain, suffering, distress or lasting harm."
+                            },
+                            "category": {
+                                "S": "Animal Rights"
+                            },
+                            "title": {
+                                "S": "Animal Testing - Consumer Products"
+                            },
+                            "answerIcon": {
+                                "S": "icon-pharmaceutical-companies-involved-in-animal-testing.svg"
+                            },
+                            "answerIconAdaDescription": {
+                                "S": "Icon for Consumer Product Companies that Exploit Animals"
+                            },
+                            "answerSequence": {
+                                "N": "51"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

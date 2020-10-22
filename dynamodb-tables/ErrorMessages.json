@@ -1,0 +1,1205 @@
+{
+    "Items": [
+        {
+            "messages": {
+                "L": []
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            }
+        },
+        {
+            "messages": {
+                "L": []
+            },
+            "brand": {
+                "S": "climb"
+            }
+        },
+        {
+            "messages": {
+                "L": []
+            },
+            "brand": {
+                "S": "align"
+            }
+        },
+        {
+            "messages": {
+                "L": [
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1001"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1002"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1003"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1004"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.creation.error.due.to.banklink.governor"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Bank Links cannot be created due to account restrictions. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "transfer.money.invalid.routing.number"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The ABA Routing number is invalid. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "transfer.money.invalid.bankaccount.number"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The bank account number is invalid. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.has.transaction.waiting.for.confirmation"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "valid.banklink.verification.status"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "external.bank.account.in.use.for.microdeposit.verification"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "This Bank Link is already linked to another account and must be verified prior to creating the same Bank Link for this account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.missing.or.wrong.state"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "User attempted to use a deleted Bank Link. Please choose another Bank Link or contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.invalid.route"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Invalid ABA Routing number. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.type.c.or.s"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Bank Link type should be Checking or Savings. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.not.owned.by.account"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The selected Bank Link does not belong to the selected account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "duplicated.banklink"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "A Bank Link already exists for this account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.no.member.found.for.loginid"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.no.items.for.attention.found.for.banklink.internal.error"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.no.matching.items.for.attention.found.for.banklink.internal.error"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.verification.failed.microdeposits.due.to.incorrect.microdeposit.amounts"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The micro deposit verification amounts are incorrect. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.final.verification.failure.no.more.attempts"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "You have exceeded the maximum amount of Bank Link verifications. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.is.not.a.micro.deposit"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "user.does.not.have.permission.to.use.override.permission"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "You do not have the permission rights to use the override features. Please contact support for assistance.(This will be used when CSR functionality is introduced.)"
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "must.supply.owner.login.id.with.md.override.flag"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.over_max_num_of_banklinks"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The Firm has reached the limit to create the number of Bank Links for this account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.wrong.status.for.cancel"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The system is attempting to delete an already deleted Bank Link. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "pending.efts.found"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The system cannot delete the Bank link. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "banklink.invalid.operation.should.be.delete"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The system does not support Bank Link updates. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "default"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9004"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9005"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9013"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9023"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9026"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9034"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9035"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9036"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9043"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9037"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1001"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1002"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1003"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "1004"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9000"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Process date for the transaction cannot be a prior date. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9001"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Process date for the transaction cannot be a non-settlement date. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9002"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Current Day transactions must be created prior to 12:00 pm EST. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9003"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The transaction amount cannot exceed the maximum transaction limit. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9006"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "AHW, WIW - The system cannot locate the bank information. Please contact support for assistance. COW, CRW – The system cannot locate the mailing address. Please contact support for assistance. AHD – The system cannot locate the account information. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9007"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "AHW, WIW, COW, CRW - The system cannot locate the account information. Please contact support for assistance. AHD – The system cannot locate the bank information. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9008"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Unknown transaction type. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9009"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Please enter a contribution year."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9010"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "After April 15 (current year), contribution year must be the current year. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9011"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "This account does not allow deposits. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9012"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "ACH deposits have been disabled for this account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9016"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The deposit amount exceeds the account transaction limit. Please enter another amount."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9017"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The withdrawal amount exceeds the account transaction limit. Please enter another amount."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9018"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "This account is not linked to the Bank Link. Please choose another Bank Link. "
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9019"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9020"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9021"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9022"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9024"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The system has limits on the amount of deposits allowed per month. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9025"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9028"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The Federal withholding type can only be ‘None,’ ‘Fixed Dollar,’ or ‘Percentage’. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9029"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The State withholding type can only be ‘None,’ ‘Fixed Dollar,’ or ‘Percentage’. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9030"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The Federal withholding amount is not correct. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9031"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The State withholding amount is not correct. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9032"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The distribution reason code is invalid. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9038"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9039"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9040"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9041"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9042"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9044"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "The frequency can only be ‘One-Time’, ‘Weekly’, ‘Monthly’, or ‘Yearly’. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9045"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9046"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9047"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9048"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Please specify “Cancel next transaction’ or ‘Cancel series’ to cancel transaction. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9049"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9050"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9051"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9052"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9053"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9054"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9055"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Tax withholding amount cannot exceed withdrawal amount. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9056"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9057"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Internal System Error. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9058"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Withdrawals are blocked for this account. Please contact support for assistance."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "9060"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Transaction amount exceeds annual IRA contribution limits. Please re-enter details."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "errorCode": {
+                                "S": "transfer.money.duplicate.banklink"
+                            },
+                            "userFacingErrorMessage": {
+                                "S": "Bank link duplicated."
+                            },
+                            "api": {
+                                "NULL": true
+                            }
+                        }
+                    }
+                ]
+            },
+            "brand": {
+                "S": "default"
+            }
+        },
+        {
+            "messages": {
+                "L": []
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

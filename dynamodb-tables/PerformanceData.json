@@ -1,0 +1,307 @@
+{
+    "Items": [
+        {
+            "placeholderPerformanceDataConfig": {
+                "M": {
+                    "getGoalPerformanceHistory": {
+                        "M": {
+                            "values": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "date": {
+                                                "S": "2019-06-07T13:57:00.277Z"
+                                            },
+                                            "fees": {
+                                                "S": "0.00000"
+                                            },
+                                            "dailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "securityFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "__typename": {
+                                                "S": "performanceHistoryValue"
+                                            },
+                                            "accrued": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeUnitValue": {
+                                                "S": "100.00000"
+                                            },
+                                            "cashFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "marketValue": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeDailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "unitValue": {
+                                                "S": "100.00000"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "__typename": {
+                                "S": "performanceHistory"
+                            }
+                        }
+                    }
+                }
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "placeholderPerformanceDataConfig": {
+                "M": {
+                    "getGoalPerformanceHistory": {
+                        "M": {
+                            "values": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "date": {
+                                                "S": "2019-06-07T13:57:00.277Z"
+                                            },
+                                            "fees": {
+                                                "S": "0.00000"
+                                            },
+                                            "dailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "securityFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "__typename": {
+                                                "S": "performanceHistoryValue"
+                                            },
+                                            "accrued": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeUnitValue": {
+                                                "S": "100.00000"
+                                            },
+                                            "cashFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "marketValue": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeDailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "unitValue": {
+                                                "S": "100.00000"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "__typename": {
+                                "S": "performanceHistory"
+                            }
+                        }
+                    }
+                }
+            },
+            "brand": {
+                "S": "climb"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "placeholderPerformanceDataConfig": {
+                "M": {
+                    "getGoalPerformanceHistory": {
+                        "M": {
+                            "__typename": {
+                                "S": "performanceHistory"
+                            },
+                            "values": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "date": {
+                                                "S": "2019-06-07T13:57:00.277Z"
+                                            },
+                                            "fees": {
+                                                "S": "0.00000"
+                                            },
+                                            "dailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "securityFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "__typename": {
+                                                "S": "performanceHistoryValue"
+                                            },
+                                            "accrued": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeUnitValue": {
+                                                "S": "100.00000"
+                                            },
+                                            "cashFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "marketValue": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeDailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "unitValue": {
+                                                "S": "100.00000"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "brand": {
+                "S": "align"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "placeholderPerformanceDataConfig": {
+                "M": {
+                    "getGoalPerformanceHistory": {
+                        "M": {
+                            "__typename": {
+                                "S": "performanceHistory"
+                            },
+                            "values": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "date": {
+                                                "S": "2019-06-07T13:57:00.277Z"
+                                            },
+                                            "fees": {
+                                                "S": "0.00000"
+                                            },
+                                            "dailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "securityFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "__typename": {
+                                                "S": "performanceHistoryValue"
+                                            },
+                                            "accrued": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeUnitValue": {
+                                                "S": "100.00000"
+                                            },
+                                            "cashFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "marketValue": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeDailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "unitValue": {
+                                                "S": "100.00000"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        },
+        {
+            "placeholderPerformanceDataConfig": {
+                "M": {
+                    "getGoalPerformanceHistory": {
+                        "M": {
+                            "__typename": {
+                                "S": "performanceHistory"
+                            },
+                            "values": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "date": {
+                                                "S": "2019-06-07T13:57:00.277Z"
+                                            },
+                                            "fees": {
+                                                "S": "0.00000"
+                                            },
+                                            "dailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "securityFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "__typename": {
+                                                "S": "performanceHistoryValue"
+                                            },
+                                            "accrued": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeUnitValue": {
+                                                "S": "100.00000"
+                                            },
+                                            "cashFlows": {
+                                                "S": "0.00000"
+                                            },
+                                            "marketValue": {
+                                                "S": "0.00000"
+                                            },
+                                            "feeDailyReturn": {
+                                                "S": "0.00000"
+                                            },
+                                            "unitValue": {
+                                                "S": "100.00000"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "date": {
+                "S": "06/12/2019"
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

@@ -1,0 +1,244 @@
+{
+    "Items": [
+        {
+            "DateTimeStamp": {
+                "S": "Thu, 10 Oct 2019 20:09:08 GMT"
+            },
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "pieChartColorConfig": {
+                "L": [
+                    {
+                        "S": "#BDFB97"
+                    },
+                    {
+                        "S": "#95F485"
+                    },
+                    {
+                        "S": "#12E072"
+                    },
+                    {
+                        "S": "#00C78A"
+                    },
+                    {
+                        "S": "#01B0BB"
+                    },
+                    {
+                        "S": "#00A1D3"
+                    },
+                    {
+                        "S": "#1C90E3"
+                    },
+                    {
+                        "S": "#7FAFF7"
+                    },
+                    {
+                        "S": "#9BD5FF"
+                    },
+                    {
+                        "S": "#B4EDFF"
+                    },
+                    {
+                        "S": "#CEFFED"
+                    }
+                ]
+            },
+            "holdingChartsColorConfig": {
+                "NULL": true
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Thu, 10 Oct 2019 20:09:08 GMT"
+            },
+            "brand": {
+                "S": "climb"
+            },
+            "pieChartColorConfig": {
+                "L": [
+                    {
+                        "S": "#BDFB97"
+                    },
+                    {
+                        "S": "#95F485"
+                    },
+                    {
+                        "S": "#12E072"
+                    },
+                    {
+                        "S": "#00C78A"
+                    },
+                    {
+                        "S": "#01B0BB"
+                    },
+                    {
+                        "S": "#00A1D3"
+                    },
+                    {
+                        "S": "#1C90E3"
+                    },
+                    {
+                        "S": "#7FAFF7"
+                    },
+                    {
+                        "S": "#9BD5FF"
+                    },
+                    {
+                        "S": "#B4EDFF"
+                    },
+                    {
+                        "S": "#CEFFED"
+                    }
+                ]
+            },
+            "holdingChartsColorConfig": {
+                "NULL": true
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 21:12:53 GMT"
+            },
+            "brand": {
+                "S": "align"
+            },
+            "pieChartColorConfig": {
+                "L": [
+                    {
+                        "S": "#BDFB97"
+                    },
+                    {
+                        "S": "#95F485"
+                    },
+                    {
+                        "S": "#12E072"
+                    },
+                    {
+                        "S": "#00C78A"
+                    },
+                    {
+                        "S": "#01B0BB"
+                    },
+                    {
+                        "S": "#00A1D3"
+                    },
+                    {
+                        "S": "#1C90E3"
+                    },
+                    {
+                        "S": "#7FAFF7"
+                    },
+                    {
+                        "S": "#9BD5FF"
+                    },
+                    {
+                        "S": "#B4EDFF"
+                    },
+                    {
+                        "S": "#CEFFED"
+                    }
+                ]
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:52:37 GMT"
+            },
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "pieChartColorConfig": {
+                "L": [
+                    {
+                        "S": "#BDFB97"
+                    },
+                    {
+                        "S": "#95F485"
+                    },
+                    {
+                        "S": "#12E072"
+                    },
+                    {
+                        "S": "#00C78A"
+                    },
+                    {
+                        "S": "#01B0BB"
+                    },
+                    {
+                        "S": "#00A1D3"
+                    },
+                    {
+                        "S": "#1C90E3"
+                    },
+                    {
+                        "S": "#7FAFF7"
+                    },
+                    {
+                        "S": "#9BD5FF"
+                    },
+                    {
+                        "S": "#B4EDFF"
+                    },
+                    {
+                        "S": "#CEFFED"
+                    }
+                ]
+            },
+            "holdingChartsColorConfig": {
+                "NULL": true
+            }
+        },
+        {
+            "DateTimeStamp": {
+                "S": "Tue, 20 Aug 2019 20:52:37 GMT"
+            },
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "pieChartColorConfig": {
+                "L": [
+                    {
+                        "S": "#BDFB97"
+                    },
+                    {
+                        "S": "#95F485"
+                    },
+                    {
+                        "S": "#12E072"
+                    },
+                    {
+                        "S": "#00C78A"
+                    },
+                    {
+                        "S": "#01B0BB"
+                    },
+                    {
+                        "S": "#00A1D3"
+                    },
+                    {
+                        "S": "#1C90E3"
+                    },
+                    {
+                        "S": "#7FAFF7"
+                    },
+                    {
+                        "S": "#9BD5FF"
+                    },
+                    {
+                        "S": "#B4EDFF"
+                    },
+                    {
+                        "S": "#CEFFED"
+                    }
+                ]
+            },
+            "holdingChartsColorConfig": {
+                "NULL": true
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}

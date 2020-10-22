@@ -1,0 +1,863 @@
+{
+    "Items": [
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            },
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-short"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Collaboration Capital MMA"
+                            },
+                            "programTag": {
+                                "S": "CCAP_MMA"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "climb"
+            },
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-short"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Climb Bespoke"
+                            },
+                            "programTag": {
+                                "S": "CLIMB_BE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "align"
+            },
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-short"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Align Risk Mapping Program"
+                            },
+                            "programTag": {
+                                "S": "ALIGN_BESPOKE"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "foliofinancial"
+            },
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Custom"
+                            },
+                            "programTag": {
+                                "S": "FA_BESPOKE"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-short"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Custom"
+                            },
+                            "programTag": {
+                                "S": "FA_ETF"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Multi-Manager"
+                            },
+                            "programTag": {
+                                "S": "FA_MMA"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Managed Mutual Fund"
+                            },
+                            "programTag": {
+                                "S": "FA_MF"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-short"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-short"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Align Risk Mapping Program"
+                            },
+                            "programTag": {
+                                "S": "FA_RM"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            },
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Custom"
+                            },
+                            "programId": {
+                                "S": "2"
+                            },
+                            "programTag": {
+                                "S": "FAFN_BESPOKE"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Multi-Manager"
+                            },
+                            "programId": {
+                                "S": "4"
+                            },
+                            "programTag": {
+                                "S": "FAFN_MMA"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "Managed Mutual Fund"
+                            },
+                            "programId": {
+                                "S": "5"
+                            },
+                            "programTag": {
+                                "S": "FAFN_MF"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "FAFN ETF Program"
+                            },
+                            "programId": {
+                                "S": "12"
+                            },
+                            "programTag": {
+                                "S": "FAFN_ETF"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "FAFN RM Program"
+                            },
+                            "programId": {
+                                "S": "13"
+                            },
+                            "programTag": {
+                                "S": "FAFN_RM"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "FAFN ETF Program 2"
+                            },
+                            "programId": {
+                                "S": "14"
+                            },
+                            "programTag": {
+                                "S": "FAFN_ETF6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "questionnaires": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "RETIREMENT"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "retirement-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "WEALTH"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "buildwealth-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "EDUCATION"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "education-long"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "M": {
+                                            "goalType": {
+                                                "S": "MAJOR_PURCHASE"
+                                            },
+                                            "questionnaireName": {
+                                                "S": "majorpurchase-long"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "programName": {
+                                "S": "FAFN ETF Program 3"
+                            },
+                            "programId": {
+                                "S": "15"
+                            },
+                            "programTag": {
+                                "S": "FAFN_ETF7"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "Count": 5,
+    "ScannedCount": 5,
+    "ConsumedCapacity": null
+}
