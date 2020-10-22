@@ -1,0 +1,21 @@
+{
+  "brand": {
+    "S": "whitelabel"
+  },
+  "createAccountPostLoginConfig": {
+    "L": [
+      {
+        "M": {
+          "showCategory": {
+            "BOOL": false
+          },
+          "categoryName": {
+            "S": "Personal"
+          }
+        }
+      }
+    ]
+  }
+}
+
+

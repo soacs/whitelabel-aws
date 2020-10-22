@@ -1,0 +1,276 @@
+accountTypes": [
+        {
+          "accountCode": "I",
+          "accountType": "Individual",
+          "forms": [
+            {
+              "name": "accountType"
+            },
+            {
+              "name": "accountCreate"
+            },
+            {
+              "name": "advisorAgreement"
+            },
+            {
+              "name": "customerAgreement"
+            },
+            {
+              "name": "submitSignature"
+            },
+            {
+              "name": "requestClientSignature"
+            }
+          ],
+          "showAccountType": true
+        },
+        {
+          "accountCode": "U",
+          "accountType": "Custodial (UGMA/UTMA)",
+          "forms": [
+            {
+              "name": "accountType"
+            },
+            {
+              "name": "custodial"
+            },
+            {
+              "name": "review-container"
+            },
+            {
+              "name": "accountCreate"
+            },
+            {
+              "name": "advisorAgreement"
+            },
+            {
+              "name": "customerAgreement"
+            },
+            {
+              "name": "submitSignature"
+            },
+            {
+              "name": "requestClientSignature"
+            }
+          ],
+          "showAccountType": true
+        },
+        {
+          "subCategories": [
+            {
+              "accountTypes": [
+                {
+                  "accountCode": "J",
+                  "accountType": "Rights of Survivorship",
+                  "forms": [
+                    {
+                      "name": "accountType"
+                    },
+                    {
+                      "name": "joints",
+                      "subForm": [
+                        {
+                          "name": "createUserId"
+                        },
+                        {
+                          "name": "basic"
+                        },
+                        {
+                          "name": "contact"
+                        },
+                        {
+                          "name": "verifyIdentity"
+                        },
+                        {
+                          "name": "finance"
+                        },
+                        {
+                          "name": "review-container"
+                        },
+                        {
+                          "name": "memberCreateOnly"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "accountCreate"
+                    },
+                    {
+                      "name": "advisorAgreement"
+                    },
+                    {
+                      "name": "customerAgreement"
+                    },
+                    {
+                      "name": "submitSignature"
+                    },
+                    {
+                      "name": "requestClientSignature"
+                    }
+                  ],
+                  "showAccountType": true
+                },
+                {
+                  "accountCode": "K",
+                  "accountType": "Tenants in Common",
+                  "forms": [
+                    {
+                      "name": "accountType"
+                    },
+                    {
+                      "name": "joints",
+                      "subForm": [
+                        {
+                          "name": "createUserId"
+                        },
+                        {
+                          "name": "basic"
+                        },
+                        {
+                          "name": "contact"
+                        },
+                        {
+                          "name": "verifyIdentity"
+                        },
+                        {
+                          "name": "finance"
+                        },
+                        {
+                          "name": "review-container"
+                        },
+                        {
+                          "name": "memberCreateOnly"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "accountCreate"
+                    },
+                    {
+                      "name": "advisorAgreement"
+                    },
+                    {
+                      "name": "customerAgreement"
+                    },
+                    {
+                      "name": "submitSignature"
+                    },
+                    {
+                      "name": "requestClientSignature"
+                    }
+                  ],
+                  "showAccountType": true
+                },
+                {
+                  "accountCode": "L",
+                  "accountType": "Community Property",
+                  "forms": [
+                    {
+                      "name": "accountType"
+                    },
+                    {
+                      "name": "joints",
+                      "subForm": [
+                        {
+                          "name": "createUserId"
+                        },
+                        {
+                          "name": "basic"
+                        },
+                        {
+                          "name": "contact"
+                        },
+                        {
+                          "name": "verifyIdentity"
+                        },
+                        {
+                          "name": "finance"
+                        },
+                        {
+                          "name": "review-container"
+                        },
+                        {
+                          "name": "memberCreateOnly"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "accountCreate"
+                    },
+                    {
+                      "name": "advisorAgreement"
+                    },
+                    {
+                      "name": "customerAgreement"
+                    },
+                    {
+                      "name": "submitSignature"
+                    },
+                    {
+                      "name": "requestClientSignature"
+                    }
+                  ],
+                  "showAccountType": true
+                },
+                {
+                  "accountCode": "M",
+                  "accountType": "Tenants by Entirety",
+                  "forms": [
+                    {
+                      "name": "accountType"
+                    },
+                    {
+                      "name": "joints",
+                      "subForm": [
+                        {
+                          "name": "createUserId"
+                        },
+                        {
+                          "name": "basic"
+                        },
+                        {
+                          "name": "contact"
+                        },
+                        {
+                          "name": "verifyIdentity"
+                        },
+                        {
+                          "name": "finance"
+                        },
+                        {
+                          "name": "review-container"
+                        },
+                        {
+                          "name": "memberCreateOnly"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "accountCreate"
+                    },
+                    {
+                      "name": "advisorAgreement"
+                    },
+                    {
+                      "name": "customerAgreement"
+                    },
+                    {
+                      "name": "submitSignature"
+                    },
+                    {
+                      "name": "requestClientSignature"
+                    }
+                  ],
+                  "showAccountType": true
+                }
+              ],
+              "showSubCategory": true,
+              "subCategoryName": "Joint"
+            }
+          ]
+        }
+      ],
+      "categoryName": "Personal",
+      "showCategory": true
+    },
+    {
